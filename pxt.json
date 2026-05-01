@@ -4,7 +4,8 @@
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "microphone": "*"
+        "microphone": "*",
+        "吴俊希的探月车3": "github:wujunxi666/6#f70202d5d51bb0aa9e266e1c032bbbdc8751326c"
     },
     "files": [
         "main.blocks",
